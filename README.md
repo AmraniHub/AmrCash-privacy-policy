@@ -1,7 +1,7 @@
 # AmrCash-privacy-policy
 AmrCash – Privacy Policy
 
-Last updated: [today’s date]
+Last updated: 14/11/2025
 
 AmrCash does not collect, store, share, or transmit any personal data.
 
